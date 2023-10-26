@@ -1,0 +1,8 @@
+.home-page {
+    background-image: url(../);
+    height: 700px;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
